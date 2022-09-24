@@ -1,1 +1,2 @@
-Dit is de inhoud van bestand 1.
+Dit is de inhoud van bestand 01.
+extra text
